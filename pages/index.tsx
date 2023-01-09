@@ -84,7 +84,7 @@ export default function Home() {
               <h3 className='text-xl font-medium pt-6 pb-2 text-gray-600'>PRODUCTION</h3>
               <h4 className='py-4 text-teal-600'>Secure production launching with:</h4>
               <p className="text-gray-600">Heroku</p>
-              <p className="text-gray-600">Hostinger</p>
+              <p className="text-gray-600">Git</p>
               <p className="text-gray-600">GitHub </p>
             </div>
           </div>
