@@ -116,6 +116,7 @@ export default function Home() {
               <a href="https://andersarens.com/" rel="noreferrer" target="_blank">
                 <Image src={andersarens} alt="" className='rounded-lg object-cover'/>
               </a>
+
             </div>
           </div>
         </section>
