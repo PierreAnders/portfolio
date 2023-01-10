@@ -120,6 +120,7 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <p className='text-sm'>pierre.untas@gmail.com</p>
       </main>
     </div>
     </>
