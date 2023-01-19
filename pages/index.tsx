@@ -39,7 +39,7 @@ export default function Home() {
               Pierre Untas
             </h2>
             <h3 className='text-2xl py-2 text-indigo-800 md:text-3xl'>
-              Designer & Developper.
+              Designer & Developer.
             </h3>
             <p className='text-md py-5 leading-8 text-gray-600 md:text-xl max-w-xl mx-auto'>
             Passionate about everything related to the blockchain, I learned the code at the Wagon de Bordeaux and keep discovering new technologies every day.
